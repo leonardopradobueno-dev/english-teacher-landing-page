@@ -1,5 +1,6 @@
 # English Teacher Landing Page
-- Responsive landing page for an English teacher built with HTML and CSS .
+
+Responsive landing page for an English teacher built with HTML and CSS .
 
 ## Features
 - Responsive landing page with mobile-first approach
@@ -23,3 +24,8 @@
 ## Full Screenshot
 
 ![Landing Page Preview](english-landing-page/img/landingpagescreenshot.png)
+
+## Author
+
+**Leonardo do Prado Bueno** 
+[GitHub Profile](https://github.com/leonardopradobueno-dev)
